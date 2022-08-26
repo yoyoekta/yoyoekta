@@ -3,7 +3,7 @@
 - Interested in learning more about open source
 - Open for collabs in web dev.
 
-#### Connect with me:
+#### Connect me:
 <a href="www.linkedin.com/in/ekta-tiwari" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="www.linkedin.com/in/ekta-tiwari" width="40" height="40"></a>
 <a href="https://www.instagram.com/ekta_9290/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/ekta_9290/" width="40" height="40"></a>
 
