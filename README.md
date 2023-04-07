@@ -31,7 +31,6 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="40" height="40"></a>
 
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoekta&show_icons=true&locale=en&layout=compact" alt="yoyoekta" style="padding: 0px"></div>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=yoyoekta&show_icons=true&locale=en" alt="yoyoekta"></div>
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoyoekta" alt="yoyoekta"></div>
 <br/>
 
