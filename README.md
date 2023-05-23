@@ -4,8 +4,9 @@
 - Open for collabs in web dev.
 
 #### Connect me:
-<a href="www.linkedin.com/in/ekta-tiwari" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="www.linkedin.com/in/ekta-tiwari" width="40" height="40"></a>
-<a href="https://www.instagram.com/ekta_9290/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/ekta_9290/" width="40" height="40"></a>
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ekta9290)
+[![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ekta_9290)
+[![](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/ekta_9290)
 
 #### Languages and Tools:
 <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"></a>
