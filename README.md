@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi, everyone! I'm Ekta</h1>
-#### <p align="center"> A final year undergraduate at DCRUST </p>
+#### <p align="center"> Backend Software Developer </p>
 - Interested in learning more about open source
 - Open for collabs in web dev.
 
